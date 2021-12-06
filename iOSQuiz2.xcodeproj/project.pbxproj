@@ -16,6 +16,7 @@
 		B5FF2669275E7C4D00293EBF /* iOSQuiz2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5FF2668275E7C4D00293EBF /* iOSQuiz2Tests.swift */; };
 		B5FF2673275E7C4D00293EBF /* iOSQuiz2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5FF2672275E7C4D00293EBF /* iOSQuiz2UITests.swift */; };
 		B5FF2675275E7C4D00293EBF /* iOSQuiz2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5FF2674275E7C4D00293EBF /* iOSQuiz2UITestsLaunchTests.swift */; };
+		B5FF2682275E829B00293EBF /* QustionBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5FF2681275E829B00293EBF /* QustionBank.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B5FF266E275E7C4D00293EBF /* iOSQuiz2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iOSQuiz2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5FF2672275E7C4D00293EBF /* iOSQuiz2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOSQuiz2UITests.swift; sourceTree = "<group>"; };
 		B5FF2674275E7C4D00293EBF /* iOSQuiz2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOSQuiz2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B5FF2681275E829B00293EBF /* QustionBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QustionBank.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				B5FF265A275E7C4C00293EBF /* Assets.xcassets */,
 				B5FF265C275E7C4C00293EBF /* LaunchScreen.storyboard */,
 				B5FF265F275E7C4C00293EBF /* Info.plist */,
+				B5FF2681275E829B00293EBF /* QustionBank.swift */,
 			);
 			path = iOSQuiz2;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				B5FF2656275E7C4B00293EBF /* ViewController.swift in Sources */,
 				B5FF2652275E7C4B00293EBF /* AppDelegate.swift in Sources */,
 				B5FF2654275E7C4B00293EBF /* SceneDelegate.swift in Sources */,
+				B5FF2682275E829B00293EBF /* QustionBank.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
